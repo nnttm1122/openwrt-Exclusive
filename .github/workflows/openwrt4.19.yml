@@ -17,8 +17,8 @@ on:
 #      - main
 #    paths:
 #      - '4.19.config'
-  schedule:
-    - cron: 0 18 */3 * *
+#  schedule:
+#    - cron: 0 18 */3 * *
   watch:
     types: started
 
